@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComponentsLearning</string>
+    <string name="play_music">play sound</string>
+    <string name="stop_music">stop sound</string>
+</resources>
